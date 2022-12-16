@@ -3,7 +3,7 @@ metric_units_mass = ["kg", "hg", "dag", "g", "dg", "cg", "mg"]
 metric_units_volume = ["kl", "hl", "dal", "l", "dl", "cl", "ml"]
 
 imperial_units_distance = ["mi", "yd", "ft", "in"]
-imperial_units_mass = ["ton", "cwt", "st", "lb", "oz"]
+imperial_units_mass = ["longt", "cwt", "st", "lb", "oz"]
 imperial_units_volume = ["floz", "quart", "gal"]
 
 distance_relation = metric_units_distance + imperial_units_distance
