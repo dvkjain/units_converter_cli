@@ -18,7 +18,7 @@ Imperial system:
 
 ## Examples
 
-'''
+```
 
 units convert 12 ft mi
 
@@ -26,4 +26,4 @@ units convert 0.8 longt oz
 
 units convert 54.6 gal floz
 
-'''
+```
