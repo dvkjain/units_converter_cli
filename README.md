@@ -6,7 +6,7 @@ CLI-tool written in Python that converts units from the metric system to the imp
 
 Metric system: 
 
-- distance: km, hm, dam, m, dn, cm, mm
+- distance: km, hm, dam, m, dm, cm, mm
 - mass: kg, hg, dag, g, dg, cg, mg
 - volume: kl, hl, dal, l, dl, cl, ml
 
@@ -14,7 +14,7 @@ Imperial system:
 
 - distance: mi, yd, ft, in
 - mass: ton, cwt, st, lb, oz
-- volume: floz, quart, gal
+- volume: floz (fluid ounce), quart, gal
 
 ## Examples
 
