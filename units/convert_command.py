@@ -40,7 +40,7 @@ class Code:
                 to_m = float(value) * (10**num)
                 result = to_m * values_in_m[convert_to]
             
-            else:
+            elif convert_to in metric_units_distance:
 
                 num = metric_units_distance.index(convert_from) - metric_units_distance.index(convert_to)
                 result = float(value) * (10**num)
@@ -126,7 +126,7 @@ class Code:
                 to_l = float(value) * (10**num)
                 result = to_l * values_in_l[convert_to]
             
-            else:
+            elif convert_to in metric_units_volume:
 
                 num = metric_units_volume.index(convert_from) - metric_units_volume.index(convert_to)
                 result = float(value) * (10**num)
