@@ -1,5 +1,4 @@
 import click
-
 from .convert_command import Code as convert
 
 @click.group()
