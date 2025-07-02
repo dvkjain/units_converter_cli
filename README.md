@@ -1,6 +1,6 @@
 # units_converter_cli
 
-CLI-tool written in Python that converts units from the metric system to the imperial system, vice versa
+CLI-tool written in Python that converts units from the metric system to the imperial system, vice versa.
 
 ## Supported units
 
@@ -13,7 +13,7 @@ Metric system:
 Imperial system:
 
 - distance: mi, yd, ft, in
-- mass: ton, cwt, st, lb, oz
+- mass: ton, cwt, st, lb, oz, longt
 - volume: floz (fluid ounce), quart, gal
 
 ## Examples
